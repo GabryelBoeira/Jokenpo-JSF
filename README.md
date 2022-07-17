@@ -20,3 +20,4 @@ O objetivo é desenvolver um jogo de jokenpô e relembrar conceitos do JSF, com 
 # Observaçôes 
 O contator do placar para Nº de empates, vitorias do jogadore e da maquiana estão em outro projeto
 
+\*\* Esta é uma Projeto Concluido \*\*
